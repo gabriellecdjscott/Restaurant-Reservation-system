@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch PersonListing",
+            "request": "launch",
+            "mainClass": "src.PersonListing",
+            "projectName": "updatedProj_7eb9a57"
+        },
+        {
+            "type": "java",
+            "name": "Launch PersonListing",
+            "request": "launch",
+            "mainClass": "MacauReservation.PersonListing",
+            "projectName": "updatedProj_7eb9a57"
+        },
+        {
+            "type": "java",
+            "name": "Launch PersonListing",
+            "request": "launch",
+            "mainClass": "src.PersonListing",
+            "projectName": "Comp1161 Project3_58499863"
+        },
+        {
+            "type": "java",
+            "name": "Launch PersonListing",
+            "request": "launch",
+            "mainClass": "PersonListing",
+            "projectName": "Comp1161 Project3_58499863"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch PersonListing",
+            "request": "launch",
+            "mainClass": "PersonListing",
+            "projectName": "LAB_6_e60dc11b"
+        }
+    ]
+}
